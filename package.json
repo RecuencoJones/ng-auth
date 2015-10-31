@@ -1,0 +1,16 @@
+{
+  "name": "ng-auth",
+  "version": "1.0.0",
+  "directories": {
+    "app": "app",
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "scripts": {
+    "test": "node test/mock-server/main.js"
+  },
+  "author": "David <david.recuencogadea@gmail.com>",
+  "license": "MIT"
+}
